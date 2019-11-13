@@ -8,4 +8,4 @@
 ## 线性比例系数
     这种方法的好处在于计算简单，速度快，应用场景广泛。  
     第一个方法是做一个线性映射。
-![image](A Survey of Tone Mapping Techniques/1.jpg)  
+![image](pics/A Survey of Tone Mapping Techniques/1.jpg)  

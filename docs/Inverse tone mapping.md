@@ -10,3 +10,5 @@
 还有一类TMO试图模仿HVS来选择映射函数。
 
 与Tone Mapping相对应的就是Inverse Tone Mapping（逆色调映射）。本文介绍了一种逆映射的方法。
+
+![image](pics\Inverse tone mapping\A7.png)

@@ -11,4 +11,7 @@
 
 与Tone Mapping相对应的就是Inverse Tone Mapping（逆色调映射）。本文介绍了一种逆映射的方法。
 
-![image](pics/Inverse tone mapping/A7.png)
+![image](pics/A7.png)
+
+
+

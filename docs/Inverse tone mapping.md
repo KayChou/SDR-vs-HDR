@@ -31,7 +31,7 @@
 - 使用上一步中位切分算法对高亮度区域进行密度估计生成增强图
 - 第一步产生的初始HDR图像结合第三步的增强图作为插值权重，产生最终的HDR图
 
-<img src="pics\Inverse-Tone-Mapping\2.PNG" alt="image" style="zoom: 67%;" />
+<img src="pics\Inverse-Tone-Mapping\2.PNG" alt="image" style="zoom: 75%;" />
 
 
 

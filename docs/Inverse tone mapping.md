@@ -15,7 +15,7 @@
 
 在各大图形网站上有许多技术和教程都对图像进行了扩展，但是这些技术可以被归类为像素级的线性或指数扩展。这种方法的主要问题是不知道相邻像素的空间信息，这意味着不知道光源的位置，这可能会导致噪音问题，以及在低亮度区域周围会产生一些明亮像素，如下图所示。
 
-<img src="pics\Inverse-Tone-Mapping\1.PNG" alt="image" style="zoom: 67%;" />
+<img src="pics\Inverse-Tone-Mapping\1.PNG" alt="image" style="zoom: 67% align=center;" />
 
 [Bennett and McMillan 2005]提出了一种视频处理技术，其中HDR概念被用来提高视频质量以去除噪声和曝光不足的视频进行色调映射。但是他们并没有研究从LDR产生HDR视频。
 
@@ -31,7 +31,7 @@
 - 使用上一步中位切分算法对高亮度区域进行密度估计生成增强图
 - 第一步产生的初始HDR图像结合第三步的增强图作为插值权重，产生最终的HDR图
 
-<img src="pics\Inverse-Tone-Mapping\2.PNG" alt="image" style="zoom: 75%;" />
+<img src="pics\Inverse-Tone-Mapping\2.PNG" alt="image" style="zoom: 75% align=center;" />
 
 
 
